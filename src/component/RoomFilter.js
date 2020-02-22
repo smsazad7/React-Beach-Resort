@@ -94,7 +94,7 @@ export default function RoomFilter({ rooms }) {
           <div className="size-inputs">
             <input
               type="number"
-              name="mainSize"
+              name="minSize"
               id="size"
               value={minSize}
               className="size-input"
